@@ -8,7 +8,7 @@ A Python script to answer a coding challenge - use Machine Learning to predict t
 - Attempted again using a different type of encoding.
 - Finally I created a basic Artificial Neural Network using Tensor Flow to analyse the information.
 
-Libraries required to run script: Some were defined as part of the challenge. Additionally certain things were attempted as mandated by the challenge. I've added notes to show my thinking and how I tried different things that specifically prescribed by the parameters of the challenge.
+#Libraries required to run script:# Some were defined as part of the challenge. Additionally certain things were attempted as mandated by the challenge. I've added notes to show my thinking and how I tried different things that specifically prescribed by the parameters of the challenge.
 
 
 # Fixed dependencies
